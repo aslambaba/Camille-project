@@ -1,5 +1,5 @@
-### Deploy on Surge !!
-- aslambaba-camille-project.surge.sh
+### Deploy on Netlify !!
+- aslambaba-camille-project.netlify.app
 
 ### Using Languages
 - HTML5
